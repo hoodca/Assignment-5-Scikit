@@ -113,6 +113,6 @@ Using the current run (`random_state=42`, 80/20 split), **Logistic Regression** 
 - This is an educational project and not a clinical diagnostic system
 
 ## Notes
-I am aware that some of the code may include content that has not beenb covered in the course, which is why I am including this reference section to explain the source of said code:
+I am aware that some of the code may include content that has not been covered in the course, which is why I am including this reference section to explain the source of said code:
 - Mckinney, Wes. Python for Data Analysis : Data Wrangling with Pandas, NumPy, and IPython. 2nd ed., Sebastopol, Ca, O’reilly Media, Inc., October, 2017.
 - Müller, Andreas C, and Sarah Guido. Introduction to Machine Learning with Python: A Guide for Data Scientists. Beijing, O’reilly, 2017.
